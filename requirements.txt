@@ -1,0 +1,7 @@
+pandas==2.2.2
+matplotlib==3.10.0
+wordcloud==1.9.4
+nltk==3.9.1
+transformers==4.48.3
+torch==2.5.1+cu124
+rouge-score==0.1.2
